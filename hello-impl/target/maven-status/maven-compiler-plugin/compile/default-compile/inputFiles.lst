@@ -1,0 +1,6 @@
+/home/lagoueyte/dev/repos/lagom-gfc/hello-impl/src/main/java/org/kahlua/gfc/hello/impl/HelloCommand.java
+/home/lagoueyte/dev/repos/lagom-gfc/hello-impl/src/main/java/org/kahlua/gfc/hello/impl/HelloEntity.java
+/home/lagoueyte/dev/repos/lagom-gfc/hello-impl/src/main/java/org/kahlua/gfc/hello/impl/HelloEvent.java
+/home/lagoueyte/dev/repos/lagom-gfc/hello-impl/src/main/java/org/kahlua/gfc/hello/impl/HelloModule.java
+/home/lagoueyte/dev/repos/lagom-gfc/hello-impl/src/main/java/org/kahlua/gfc/hello/impl/HelloState.java
+/home/lagoueyte/dev/repos/lagom-gfc/hello-impl/src/main/java/org/kahlua/gfc/hello/impl/HelloServiceImpl.java
